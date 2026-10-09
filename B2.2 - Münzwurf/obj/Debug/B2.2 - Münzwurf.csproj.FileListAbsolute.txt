@@ -1,0 +1,7 @@
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.2 - Münzwurf\B2.2 - Münzwurf\bin\Debug\B2.2 - Münzwurf.exe.config
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.2 - Münzwurf\B2.2 - Münzwurf\bin\Debug\B2.2 - Münzwurf.exe
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.2 - Münzwurf\B2.2 - Münzwurf\bin\Debug\B2.2 - Münzwurf.pdb
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.2 - Münzwurf\B2.2 - Münzwurf\obj\Debug\B2.2 - Münzwurf.csproj.AssemblyReference.cache
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.2 - Münzwurf\B2.2 - Münzwurf\obj\Debug\B2.2 - Münzwurf.csproj.CoreCompileInputs.cache
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.2 - Münzwurf\B2.2 - Münzwurf\obj\Debug\B2.2 - Münzwurf.exe
+C:\Users\Steven\OneDrive\Desktop\SAE Projects\B2 Arbeiten\B2.2 - Münzwurf\B2.2 - Münzwurf\obj\Debug\B2.2 - Münzwurf.pdb
